@@ -1,0 +1,28 @@
+{
+    "fornecedores": {
+        "voker": "3",
+        "vivo": "2",
+        "condor": "1"
+    },
+    "setores": {
+        "comercial": "01",
+        "residencial": "02"
+    },
+    "tipos": {
+        "laptop": "L",
+        "desktop": "D",
+        "impressora": "I"
+    },
+    "locais": {
+        "fabrica": "1",
+        "escritorio": "2"
+    },
+    "maquinas": {
+        "comercial": {
+            "001": "CNL-3L01-1-001",
+            "002": "CNL-3L012-002",
+            "003": "CNL-3D012-003",
+            "004": "CNL-3L012-004"
+        }
+    }
+}
