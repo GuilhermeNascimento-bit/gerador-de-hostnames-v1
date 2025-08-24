@@ -1,12 +1,16 @@
 {
     "fornecedores": {
-        "voker": "3",
+        "condor": "1",
         "vivo": "2",
-        "condor": "1"
+        "voker": "3",
+        "intel": "4"
     },
     "setores": {
         "comercial": "01",
-        "residencial": "02"
+        "residencial": "02",
+        "juridico": "03",
+        "marketing": "04",
+        "financeiro": "05"
     },
     "tipos": {
         "laptop": "L",
@@ -23,6 +27,12 @@
             "002": "CNL-3L012-002",
             "003": "CNL-3D012-003",
             "004": "CNL-3L012-004"
+        },
+        "juridico": {
+            "001": "CNL-4L022-001"
+        },
+        "financeiro": {
+            "001": "CNL-3L032-001"
         }
     }
 }
