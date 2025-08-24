@@ -10,12 +10,14 @@
         "residencial": "02",
         "juridico": "03",
         "marketing": "04",
-        "financeiro": "05"
+        "financeiro": "05",
+        "rh": "06"
     },
     "tipos": {
         "laptop": "L",
         "desktop": "D",
-        "impressora": "I"
+        "impressora": "I",
+        "monitor": "M"
     },
     "locais": {
         "fabrica": "1",
