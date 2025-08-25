@@ -11,13 +11,15 @@
         "juridico": "03",
         "marketing": "04",
         "financeiro": "05",
-        "rh": "06"
+        "rh": "06",
+        "diretoria": "07"
     },
     "tipos": {
         "laptop": "L",
         "desktop": "D",
         "impressora": "I",
-        "monitor": "M"
+        "monitor": "M",
+        "celular": "C"
     },
     "locais": {
         "fabrica": "1",
@@ -35,6 +37,12 @@
         },
         "financeiro": {
             "001": "CNL-3L032-001"
+        },
+        "rh": {
+            "001": "CNL-3L062-001"
+        },
+        "diretoria": {
+            "001": "CNL-2C072-001"
         }
     }
 }
